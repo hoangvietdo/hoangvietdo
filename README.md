@@ -1,6 +1,13 @@
 ### Hi there 👋
 
+![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangvietdo&show_icons=true&theme=material-palenight)
+
+
 <!--
+[![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangvietdo&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<!--
+[![Viet's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvietdo&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 **hoangvietdo/hoangvietdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
