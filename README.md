@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangvietdo&show_icons=true&theme=material-palenight)
+![Viet's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangvietdo&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvietdo&theme=dracula&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
