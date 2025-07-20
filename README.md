@@ -6,11 +6,13 @@
   <img alt="" src="[https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/output/github-contribution-grid-snake-dark.svg](https://github-readme-stats.vercel.app/api?username=hoangvietdo&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)">
 </picture>
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvietdo&langs_count=8&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvietdo&langs_count=8&layout=compact">
   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvietdo&langs_count=8&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
 </picture>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/output/github-contribution-grid-snake-dark.svg">
