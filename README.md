@@ -1,10 +1,19 @@
 ### Hi there 👋
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hoangvietdo&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hoangvietdo&show_icons=true">
   <img alt="" src="[https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/output/github-contribution-grid-snake-dark.svg](https://github-readme-stats.vercel.app/api?username=hoangvietdo&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)">
 </picture>
+-->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
+    <img alt="HoangVietDo GitHub Stats" src="./profile/stats-dark.svg">
+  </picture>
+</p>
 
 <!--
 <picture>
@@ -22,19 +31,19 @@
 </picture>
 -->
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-</picture>
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/examples/github-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/examples/github-light.svg">
-    <img alt="Snake eating contributions" src="./assets/examples/github-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/outputsnake/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/outputsnake/github-snake.svg">
+    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/outputsnake/github-snake.svg">
   </picture>
 </p>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/output/pacman-contribution-graph.svg">
+</picture>
 
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/output/github-contribution-grid-snake-dark.svg) -->
 
