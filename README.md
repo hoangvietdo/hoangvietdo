@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hoangvietdo&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hoangvietdo&show_icons=true">
   <img alt="" src="[https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/output/github-contribution-grid-snake-dark.svg](https://github-readme-stats.vercel.app/api?username=hoangvietdo&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)">
 </picture>
--->
-
-![GitHub Dark](./assets/examples/github-dark.svg)
 
 <!--
 <picture>
@@ -18,11 +14,15 @@
 </picture>
 -->
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/output/github-contribution-grid-snake.svg">
   <img alt="" src="https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/output/github-contribution-grid-snake-dark.svg">
 </picture>
+-->
+
+![GitHub Dark](./assets/examples/github-dark.svg)
 
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/hoangvietdo/hoangvietdo/output/github-contribution-grid-snake-dark.svg) -->
 
