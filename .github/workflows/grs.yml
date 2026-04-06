@@ -18,8 +18,16 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
+          path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
